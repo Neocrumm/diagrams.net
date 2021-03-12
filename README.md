@@ -5,4 +5,4 @@
 - https://neocrumm.github.io/diagrams.net/family-tree.svg
 - https://neocrumm.github.io/diagrams.net/map.svg
 - https://neocrumm.github.io/diagrams.net/roblox-vs-mc.svg
-- https://neocrumm.github.io/diagrams.net/html-structure.svg
+- https://neocrumm.github.io/diagrams.net/html-struct.svg
