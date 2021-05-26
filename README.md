@@ -6,4 +6,4 @@
 - https://neocrumm.github.io/diagrams.net/map.svg
 - https://neocrumm.github.io/diagrams.net/roblox-vs-mc.svg
 - https://neocrumm.github.io/diagrams.net/html-struct.svg
--  https://neocrumm.github.io/diagrams.net/thumbnail.svg
+-  https://neocrumm.github.io/diagrams.net/thumbnail.png
